@@ -24,6 +24,9 @@ Bot disponible en: https://t.me/Iso_Morfos_jr_bot
    ```
    pip install -r requirements.txt
    ```
+Para obtener un token: abrir @BotFather en Telegram, enviar /newbot,
+elegir un nombre y un usuario que termine en "bot", y copiar el token
+que entrega.
 
 2. Crear en esta misma carpeta un archivo llamado `.env` con una sola línea:
 
